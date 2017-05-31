@@ -14,3 +14,10 @@ print '  Hello World'
 #5 False
 #6 True
 #7 True
+
+# WELL DONE IF YOU GOT IT CORRECT!!!  
+
+# take a look at this:
+
+print 'I will remember to feed the baby\n' * 100
+# what does this do? play around with it a little!
